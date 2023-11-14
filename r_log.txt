@@ -1,0 +1,1932 @@
+Customer: 1
+Service type: W
+Arrival time: 05/08/23 00:25:09
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 1
+Service type: W
+Arrival time: 05/08/23 00:25:09
+Response time: 05/08/23 00:25:09
+=============================================================
+
+Customer: 2
+Service type: D
+Arrival time: 05/08/23 00:25:11
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 2
+Service type: D
+Arrival time: 05/08/23 00:25:11
+Response time: 05/08/23 00:25:11
+=============================================================
+
+Customer: 3
+Service type: I
+Arrival time: 05/08/23 00:25:13
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 3
+Service type: I
+Arrival time: 05/08/23 00:25:13
+Response time: 05/08/23 00:25:13
+=============================================================
+
+Customer: 4
+Service type: I
+Arrival time: 05/08/23 00:25:15
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 4
+Service type: I
+Arrival time: 05/08/23 00:25:15
+Response time: 05/08/23 00:25:15
+=============================================================
+
+Teller: 4
+Customer: 1
+Service type: W
+Arrival time: 05/08/23 00:25:09
+Completion time: 05/08/23 00:25:19
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 5
+Service type: D
+Arrival time: 05/08/23 00:25:17
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 5
+Service type: D
+Arrival time: 05/08/23 00:25:17
+Response time: 05/08/23 00:25:19
+=============================================================
+
+Teller: 2
+Customer: 2
+Service type: D
+Arrival time: 05/08/23 00:25:11
+Completion time: 05/08/23 00:25:26
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 6
+Service type: W
+Arrival time: 05/08/23 00:25:19
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 6
+Service type: W
+Arrival time: 05/08/23 00:25:19
+Response time: 05/08/23 00:25:26
+=============================================================
+
+Teller: 3
+Customer: 3
+Service type: I
+Arrival time: 05/08/23 00:25:13
+Completion time: 05/08/23 00:25:31
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 7
+Service type: W
+Arrival time: 05/08/23 00:25:21
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 7
+Service type: W
+Arrival time: 05/08/23 00:25:21
+Response time: 05/08/23 00:25:31
+=============================================================
+
+Teller: 1
+Customer: 4
+Service type: I
+Arrival time: 05/08/23 00:25:15
+Completion time: 05/08/23 00:25:33
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 8
+Service type: W
+Arrival time: 05/08/23 00:25:23
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 8
+Service type: W
+Arrival time: 05/08/23 00:25:23
+Response time: 05/08/23 00:25:34
+=============================================================
+
+Teller: 4
+Customer: 5
+Service type: D
+Arrival time: 05/08/23 00:25:17
+Completion time: 05/08/23 00:25:34
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 9
+Service type: I
+Arrival time: 05/08/23 00:25:25
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 9
+Service type: I
+Arrival time: 05/08/23 00:25:25
+Response time: 05/08/23 00:25:34
+=============================================================
+
+Teller: 2
+Customer: 6
+Service type: W
+Arrival time: 05/08/23 00:25:19
+Completion time: 05/08/23 00:25:36
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 10
+Service type: D
+Arrival time: 05/08/23 00:25:27
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 10
+Service type: D
+Arrival time: 05/08/23 00:25:27
+Response time: 05/08/23 00:25:36
+=============================================================
+
+Teller: 3
+Customer: 7
+Service type: W
+Arrival time: 05/08/23 00:25:21
+Completion time: 05/08/23 00:25:41
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 11
+Service type: D
+Arrival time: 05/08/23 00:25:29
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 11
+Service type: D
+Arrival time: 05/08/23 00:25:29
+Response time: 05/08/23 00:25:41
+=============================================================
+
+Teller: 1
+Customer: 8
+Service type: W
+Arrival time: 05/08/23 00:25:23
+Completion time: 05/08/23 00:25:44
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 12
+Service type: I
+Arrival time: 05/08/23 00:25:38
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 12
+Service type: I
+Arrival time: 05/08/23 00:25:38
+Response time: 05/08/23 00:25:44
+=============================================================
+
+Teller: 2
+Customer: 10
+Service type: D
+Arrival time: 05/08/23 00:25:27
+Completion time: 05/08/23 00:25:51
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 13
+Service type: I
+Arrival time: 05/08/23 00:25:40
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 13
+Service type: I
+Arrival time: 05/08/23 00:25:40
+Response time: 05/08/23 00:25:51
+=============================================================
+
+Teller: 4
+Customer: 9
+Service type: I
+Arrival time: 05/08/23 00:25:25
+Completion time: 05/08/23 00:25:52
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 14
+Service type: W
+Arrival time: 05/08/23 00:25:42
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 14
+Service type: W
+Arrival time: 05/08/23 00:25:42
+Response time: 05/08/23 00:25:52
+=============================================================
+
+Teller: 3
+Customer: 11
+Service type: D
+Arrival time: 05/08/23 00:25:29
+Completion time: 05/08/23 00:25:56
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 15
+Service type: D
+Arrival time: 05/08/23 00:25:44
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 15
+Service type: D
+Arrival time: 05/08/23 00:25:44
+Response time: 05/08/23 00:25:56
+=============================================================
+
+Teller: 1
+Customer: 12
+Service type: I
+Arrival time: 05/08/23 00:25:38
+Completion time: 05/08/23 00:26:02
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 16
+Service type: I
+Arrival time: 05/08/23 00:25:46
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 16
+Service type: I
+Arrival time: 05/08/23 00:25:46
+Response time: 05/08/23 00:26:02
+=============================================================
+
+Teller: 4
+Customer: 14
+Service type: W
+Arrival time: 05/08/23 00:25:42
+Completion time: 05/08/23 00:26:02
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 17
+Service type: I
+Arrival time: 05/08/23 00:25:58
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 17
+Service type: I
+Arrival time: 05/08/23 00:25:58
+Response time: 05/08/23 00:26:02
+=============================================================
+
+Teller: 2
+Customer: 13
+Service type: I
+Arrival time: 05/08/23 00:25:40
+Completion time: 05/08/23 00:26:09
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 18
+Service type: W
+Arrival time: 05/08/23 00:26:00
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 18
+Service type: W
+Arrival time: 05/08/23 00:26:00
+Response time: 05/08/23 00:26:09
+=============================================================
+
+Teller: 3
+Customer: 15
+Service type: D
+Arrival time: 05/08/23 00:25:44
+Completion time: 05/08/23 00:26:11
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 19
+Service type: D
+Arrival time: 05/08/23 00:26:02
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 19
+Service type: D
+Arrival time: 05/08/23 00:26:02
+Response time: 05/08/23 00:26:11
+=============================================================
+
+Teller: 2
+Customer: 18
+Service type: W
+Arrival time: 05/08/23 00:26:00
+Completion time: 05/08/23 00:26:19
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 20
+Service type: W
+Arrival time: 05/08/23 00:26:04
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 20
+Service type: W
+Arrival time: 05/08/23 00:26:04
+Response time: 05/08/23 00:26:19
+=============================================================
+
+Teller: 1
+Customer: 16
+Service type: I
+Arrival time: 05/08/23 00:25:46
+Completion time: 05/08/23 00:26:20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 21
+Service type: W
+Arrival time: 05/08/23 00:26:06
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 21
+Service type: W
+Arrival time: 05/08/23 00:26:06
+Response time: 05/08/23 00:26:20
+=============================================================
+
+Teller: 4
+Customer: 17
+Service type: I
+Arrival time: 05/08/23 00:25:58
+Completion time: 05/08/23 00:26:20
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 22
+Service type: D
+Arrival time: 05/08/23 00:26:21
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 22
+Service type: D
+Arrival time: 05/08/23 00:26:21
+Response time: 05/08/23 00:26:21
+=============================================================
+
+Teller: 3
+Customer: 19
+Service type: D
+Arrival time: 05/08/23 00:26:02
+Completion time: 05/08/23 00:26:26
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 23
+Service type: I
+Arrival time: 05/08/23 00:26:23
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 23
+Service type: I
+Arrival time: 05/08/23 00:26:23
+Response time: 05/08/23 00:26:26
+=============================================================
+
+Teller: 2
+Customer: 20
+Service type: W
+Arrival time: 05/08/23 00:26:04
+Completion time: 05/08/23 00:26:29
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 24
+Service type: I
+Arrival time: 05/08/23 00:26:25
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 24
+Service type: I
+Arrival time: 05/08/23 00:26:25
+Response time: 05/08/23 00:26:29
+=============================================================
+
+Teller: 1
+Customer: 21
+Service type: W
+Arrival time: 05/08/23 00:26:06
+Completion time: 05/08/23 00:26:30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 25
+Service type: D
+Arrival time: 05/08/23 00:26:27
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 25
+Service type: D
+Arrival time: 05/08/23 00:26:27
+Response time: 05/08/23 00:26:30
+=============================================================
+
+Teller: 4
+Customer: 22
+Service type: D
+Arrival time: 05/08/23 00:26:21
+Completion time: 05/08/23 00:26:36
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 26
+Service type: W
+Arrival time: 05/08/23 00:26:29
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 26
+Service type: W
+Arrival time: 05/08/23 00:26:29
+Response time: 05/08/23 00:26:36
+=============================================================
+
+Teller: 3
+Customer: 23
+Service type: I
+Arrival time: 05/08/23 00:26:23
+Completion time: 05/08/23 00:26:44
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 27
+Service type: W
+Arrival time: 05/08/23 00:26:31
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 27
+Service type: W
+Arrival time: 05/08/23 00:26:31
+Response time: 05/08/23 00:26:44
+=============================================================
+
+Teller: 1
+Customer: 25
+Service type: D
+Arrival time: 05/08/23 00:26:27
+Completion time: 05/08/23 00:26:45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 28
+Service type: W
+Arrival time: 05/08/23 00:26:33
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 28
+Service type: W
+Arrival time: 05/08/23 00:26:33
+Response time: 05/08/23 00:26:45
+=============================================================
+
+Teller: 4
+Customer: 26
+Service type: W
+Arrival time: 05/08/23 00:26:29
+Completion time: 05/08/23 00:26:46
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 29
+Service type: I
+Arrival time: 05/08/23 00:26:46
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 29
+Service type: I
+Arrival time: 05/08/23 00:26:46
+Response time: 05/08/23 00:26:46
+=============================================================
+
+Teller: 2
+Customer: 24
+Service type: I
+Arrival time: 05/08/23 00:26:25
+Completion time: 05/08/23 00:26:47
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 30
+Service type: D
+Arrival time: 05/08/23 00:26:48
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 30
+Service type: D
+Arrival time: 05/08/23 00:26:48
+Response time: 05/08/23 00:26:48
+=============================================================
+
+Teller: 3
+Customer: 27
+Service type: W
+Arrival time: 05/08/23 00:26:31
+Completion time: 05/08/23 00:26:54
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 31
+Service type: D
+Arrival time: 05/08/23 00:26:50
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 31
+Service type: D
+Arrival time: 05/08/23 00:26:50
+Response time: 05/08/23 00:26:54
+=============================================================
+
+Teller: 1
+Customer: 28
+Service type: W
+Arrival time: 05/08/23 00:26:33
+Completion time: 05/08/23 00:26:55
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 32
+Service type: I
+Arrival time: 05/08/23 00:26:52
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 32
+Service type: I
+Arrival time: 05/08/23 00:26:52
+Response time: 05/08/23 00:26:55
+=============================================================
+
+Teller: 2
+Customer: 30
+Service type: D
+Arrival time: 05/08/23 00:26:48
+Completion time: 05/08/23 00:27:03
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 33
+Service type: W
+Arrival time: 05/08/23 00:26:54
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 33
+Service type: W
+Arrival time: 05/08/23 00:26:54
+Response time: 05/08/23 00:27:03
+=============================================================
+
+Teller: 4
+Customer: 29
+Service type: I
+Arrival time: 05/08/23 00:26:46
+Completion time: 05/08/23 00:27:04
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 34
+Service type: W
+Arrival time: 05/08/23 00:26:56
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 34
+Service type: W
+Arrival time: 05/08/23 00:26:56
+Response time: 05/08/23 00:27:04
+=============================================================
+
+Teller: 3
+Customer: 31
+Service type: D
+Arrival time: 05/08/23 00:26:50
+Completion time: 05/08/23 00:27:09
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 35
+Service type: D
+Arrival time: 05/08/23 00:26:58
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 35
+Service type: D
+Arrival time: 05/08/23 00:26:58
+Response time: 05/08/23 00:27:09
+=============================================================
+
+Teller: 1
+Customer: 32
+Service type: I
+Arrival time: 05/08/23 00:26:52
+Completion time: 05/08/23 00:27:13
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 36
+Service type: I
+Arrival time: 05/08/23 00:27:00
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 36
+Service type: I
+Arrival time: 05/08/23 00:27:00
+Response time: 05/08/23 00:27:13
+=============================================================
+
+Teller: 2
+Customer: 33
+Service type: W
+Arrival time: 05/08/23 00:26:54
+Completion time: 05/08/23 00:27:13
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 37
+Service type: I
+Arrival time: 05/08/23 00:27:11
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 37
+Service type: I
+Arrival time: 05/08/23 00:27:11
+Response time: 05/08/23 00:27:13
+=============================================================
+
+Teller: 4
+Customer: 34
+Service type: W
+Arrival time: 05/08/23 00:26:56
+Completion time: 05/08/23 00:27:14
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 38
+Service type: W
+Arrival time: 05/08/23 00:27:13
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 38
+Service type: W
+Arrival time: 05/08/23 00:27:13
+Response time: 05/08/23 00:27:14
+=============================================================
+
+Teller: 3
+Customer: 35
+Service type: D
+Arrival time: 05/08/23 00:26:58
+Completion time: 05/08/23 00:27:24
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 39
+Service type: D
+Arrival time: 05/08/23 00:27:15
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 39
+Service type: D
+Arrival time: 05/08/23 00:27:15
+Response time: 05/08/23 00:27:24
+=============================================================
+
+Teller: 4
+Customer: 38
+Service type: W
+Arrival time: 05/08/23 00:27:13
+Completion time: 05/08/23 00:27:24
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 40
+Service type: W
+Arrival time: 05/08/23 00:27:17
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 40
+Service type: W
+Arrival time: 05/08/23 00:27:17
+Response time: 05/08/23 00:27:24
+=============================================================
+
+Teller: 1
+Customer: 36
+Service type: I
+Arrival time: 05/08/23 00:27:00
+Completion time: 05/08/23 00:27:31
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 41
+Service type: W
+Arrival time: 05/08/23 00:27:19
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 41
+Service type: W
+Arrival time: 05/08/23 00:27:19
+Response time: 05/08/23 00:27:31
+=============================================================
+
+Teller: 2
+Customer: 37
+Service type: I
+Arrival time: 05/08/23 00:27:11
+Completion time: 05/08/23 00:27:31
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 42
+Service type: D
+Arrival time: 05/08/23 00:27:21
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 42
+Service type: D
+Arrival time: 05/08/23 00:27:21
+Response time: 05/08/23 00:27:31
+=============================================================
+
+Teller: 4
+Customer: 40
+Service type: W
+Arrival time: 05/08/23 00:27:17
+Completion time: 05/08/23 00:27:34
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 43
+Service type: I
+Arrival time: 05/08/23 00:27:23
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 43
+Service type: I
+Arrival time: 05/08/23 00:27:23
+Response time: 05/08/23 00:27:34
+=============================================================
+
+Teller: 3
+Customer: 39
+Service type: D
+Arrival time: 05/08/23 00:27:15
+Completion time: 05/08/23 00:27:39
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 44
+Service type: I
+Arrival time: 05/08/23 00:27:25
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 44
+Service type: I
+Arrival time: 05/08/23 00:27:25
+Response time: 05/08/23 00:27:39
+=============================================================
+
+Teller: 1
+Customer: 41
+Service type: W
+Arrival time: 05/08/23 00:27:19
+Completion time: 05/08/23 00:27:41
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 45
+Service type: D
+Arrival time: 05/08/23 00:27:36
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 45
+Service type: D
+Arrival time: 05/08/23 00:27:36
+Response time: 05/08/23 00:27:41
+=============================================================
+
+Teller: 2
+Customer: 42
+Service type: D
+Arrival time: 05/08/23 00:27:21
+Completion time: 05/08/23 00:27:46
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 46
+Service type: W
+Arrival time: 05/08/23 00:27:38
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 46
+Service type: W
+Arrival time: 05/08/23 00:27:38
+Response time: 05/08/23 00:27:46
+=============================================================
+
+Teller: 4
+Customer: 43
+Service type: I
+Arrival time: 05/08/23 00:27:23
+Completion time: 05/08/23 00:27:52
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 47
+Service type: W
+Arrival time: 05/08/23 00:27:40
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 47
+Service type: W
+Arrival time: 05/08/23 00:27:40
+Response time: 05/08/23 00:27:52
+=============================================================
+
+Teller: 1
+Customer: 45
+Service type: D
+Arrival time: 05/08/23 00:27:36
+Completion time: 05/08/23 00:27:56
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 48
+Service type: W
+Arrival time: 05/08/23 00:27:42
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 48
+Service type: W
+Arrival time: 05/08/23 00:27:42
+Response time: 05/08/23 00:27:56
+=============================================================
+
+Teller: 2
+Customer: 46
+Service type: W
+Arrival time: 05/08/23 00:27:38
+Completion time: 05/08/23 00:27:56
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 49
+Service type: I
+Arrival time: 05/08/23 00:27:44
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 49
+Service type: I
+Arrival time: 05/08/23 00:27:44
+Response time: 05/08/23 00:27:56
+=============================================================
+
+Teller: 3
+Customer: 44
+Service type: I
+Arrival time: 05/08/23 00:27:25
+Completion time: 05/08/23 00:27:57
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 50
+Service type: D
+Arrival time: 05/08/23 00:27:58
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 50
+Service type: D
+Arrival time: 05/08/23 00:27:58
+Response time: 05/08/23 00:27:58
+=============================================================
+
+Teller: 4
+Customer: 47
+Service type: W
+Arrival time: 05/08/23 00:27:40
+Completion time: 05/08/23 00:28:02
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 51
+Service type: D
+Arrival time: 05/08/23 00:28:00
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 51
+Service type: D
+Arrival time: 05/08/23 00:28:00
+Response time: 05/08/23 00:28:02
+=============================================================
+
+Teller: 1
+Customer: 48
+Service type: W
+Arrival time: 05/08/23 00:27:42
+Completion time: 05/08/23 00:28:06
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 52
+Service type: I
+Arrival time: 05/08/23 00:28:02
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 52
+Service type: I
+Arrival time: 05/08/23 00:28:02
+Response time: 05/08/23 00:28:06
+=============================================================
+
+Teller: 3
+Customer: 50
+Service type: D
+Arrival time: 05/08/23 00:27:58
+Completion time: 05/08/23 00:28:13
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 53
+Service type: I
+Arrival time: 05/08/23 00:28:04
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 53
+Service type: I
+Arrival time: 05/08/23 00:28:04
+Response time: 05/08/23 00:28:13
+=============================================================
+
+Teller: 2
+Customer: 49
+Service type: I
+Arrival time: 05/08/23 00:27:44
+Completion time: 05/08/23 00:28:14
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 54
+Service type: W
+Arrival time: 05/08/23 00:28:06
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 54
+Service type: W
+Arrival time: 05/08/23 00:28:06
+Response time: 05/08/23 00:28:14
+=============================================================
+
+Teller: 4
+Customer: 51
+Service type: D
+Arrival time: 05/08/23 00:28:00
+Completion time: 05/08/23 00:28:17
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 55
+Service type: D
+Arrival time: 05/08/23 00:28:08
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 55
+Service type: D
+Arrival time: 05/08/23 00:28:08
+Response time: 05/08/23 00:28:17
+=============================================================
+
+Teller: 1
+Customer: 52
+Service type: I
+Arrival time: 05/08/23 00:28:02
+Completion time: 05/08/23 00:28:24
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 56
+Service type: I
+Arrival time: 05/08/23 00:28:10
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 56
+Service type: I
+Arrival time: 05/08/23 00:28:10
+Response time: 05/08/23 00:28:24
+=============================================================
+
+Teller: 2
+Customer: 54
+Service type: W
+Arrival time: 05/08/23 00:28:06
+Completion time: 05/08/23 00:28:24
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 57
+Service type: I
+Arrival time: 05/08/23 00:28:19
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 57
+Service type: I
+Arrival time: 05/08/23 00:28:19
+Response time: 05/08/23 00:28:24
+=============================================================
+
+Teller: 3
+Customer: 53
+Service type: I
+Arrival time: 05/08/23 00:28:04
+Completion time: 05/08/23 00:28:31
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 58
+Service type: W
+Arrival time: 05/08/23 00:28:21
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 58
+Service type: W
+Arrival time: 05/08/23 00:28:21
+Response time: 05/08/23 00:28:31
+=============================================================
+
+Teller: 4
+Customer: 55
+Service type: D
+Arrival time: 05/08/23 00:28:08
+Completion time: 05/08/23 00:28:32
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 59
+Service type: D
+Arrival time: 05/08/23 00:28:23
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 59
+Service type: D
+Arrival time: 05/08/23 00:28:23
+Response time: 05/08/23 00:28:32
+=============================================================
+
+Teller: 3
+Customer: 58
+Service type: W
+Arrival time: 05/08/23 00:28:21
+Completion time: 05/08/23 00:28:41
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 60
+Service type: W
+Arrival time: 05/08/23 00:28:25
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 60
+Service type: W
+Arrival time: 05/08/23 00:28:25
+Response time: 05/08/23 00:28:41
+=============================================================
+
+Teller: 1
+Customer: 56
+Service type: I
+Arrival time: 05/08/23 00:28:10
+Completion time: 05/08/23 00:28:42
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 61
+Service type: W
+Arrival time: 05/08/23 00:28:27
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 61
+Service type: W
+Arrival time: 05/08/23 00:28:27
+Response time: 05/08/23 00:28:42
+=============================================================
+
+Teller: 2
+Customer: 57
+Service type: I
+Arrival time: 05/08/23 00:28:19
+Completion time: 05/08/23 00:28:42
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 62
+Service type: D
+Arrival time: 05/08/23 00:28:43
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 62
+Service type: D
+Arrival time: 05/08/23 00:28:43
+Response time: 05/08/23 00:28:43
+=============================================================
+
+Teller: 4
+Customer: 59
+Service type: D
+Arrival time: 05/08/23 00:28:23
+Completion time: 05/08/23 00:28:47
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 63
+Service type: I
+Arrival time: 05/08/23 00:28:45
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 63
+Service type: I
+Arrival time: 05/08/23 00:28:45
+Response time: 05/08/23 00:28:47
+=============================================================
+
+Teller: 3
+Customer: 60
+Service type: W
+Arrival time: 05/08/23 00:28:25
+Completion time: 05/08/23 00:28:51
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 64
+Service type: I
+Arrival time: 05/08/23 00:28:47
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 64
+Service type: I
+Arrival time: 05/08/23 00:28:47
+Response time: 05/08/23 00:28:51
+=============================================================
+
+Teller: 1
+Customer: 61
+Service type: W
+Arrival time: 05/08/23 00:28:27
+Completion time: 05/08/23 00:28:52
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 65
+Service type: D
+Arrival time: 05/08/23 00:28:49
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 65
+Service type: D
+Arrival time: 05/08/23 00:28:49
+Response time: 05/08/23 00:28:52
+=============================================================
+
+Teller: 2
+Customer: 62
+Service type: D
+Arrival time: 05/08/23 00:28:43
+Completion time: 05/08/23 00:28:58
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 66
+Service type: W
+Arrival time: 05/08/23 00:28:51
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 66
+Service type: W
+Arrival time: 05/08/23 00:28:51
+Response time: 05/08/23 00:28:58
+=============================================================
+
+Teller: 4
+Customer: 63
+Service type: I
+Arrival time: 05/08/23 00:28:45
+Completion time: 05/08/23 00:29:05
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 67
+Service type: W
+Arrival time: 05/08/23 00:28:53
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 67
+Service type: W
+Arrival time: 05/08/23 00:28:53
+Response time: 05/08/23 00:29:05
+=============================================================
+
+Teller: 1
+Customer: 65
+Service type: D
+Arrival time: 05/08/23 00:28:49
+Completion time: 05/08/23 00:29:07
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 68
+Service type: W
+Arrival time: 05/08/23 00:28:55
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 68
+Service type: W
+Arrival time: 05/08/23 00:28:55
+Response time: 05/08/23 00:29:07
+=============================================================
+
+Teller: 2
+Customer: 66
+Service type: W
+Arrival time: 05/08/23 00:28:51
+Completion time: 05/08/23 00:29:08
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 69
+Service type: I
+Arrival time: 05/08/23 00:29:07
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 69
+Service type: I
+Arrival time: 05/08/23 00:29:07
+Response time: 05/08/23 00:29:08
+=============================================================
+
+Teller: 3
+Customer: 64
+Service type: I
+Arrival time: 05/08/23 00:28:47
+Completion time: 05/08/23 00:29:09
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 70
+Service type: D
+Arrival time: 05/08/23 00:29:09
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 70
+Service type: D
+Arrival time: 05/08/23 00:29:09
+Response time: 05/08/23 00:29:09
+=============================================================
+
+Teller: 4
+Customer: 67
+Service type: W
+Arrival time: 05/08/23 00:28:53
+Completion time: 05/08/23 00:29:15
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 71
+Service type: D
+Arrival time: 05/08/23 00:29:11
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 71
+Service type: D
+Arrival time: 05/08/23 00:29:11
+Response time: 05/08/23 00:29:15
+=============================================================
+
+Teller: 1
+Customer: 68
+Service type: W
+Arrival time: 05/08/23 00:28:55
+Completion time: 05/08/23 00:29:17
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 72
+Service type: I
+Arrival time: 05/08/23 00:29:13
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 72
+Service type: I
+Arrival time: 05/08/23 00:29:13
+Response time: 05/08/23 00:29:17
+=============================================================
+
+Teller: 3
+Customer: 70
+Service type: D
+Arrival time: 05/08/23 00:29:09
+Completion time: 05/08/23 00:29:24
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 73
+Service type: D
+Arrival time: 05/08/23 00:29:15
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 73
+Service type: D
+Arrival time: 05/08/23 00:29:15
+Response time: 05/08/23 00:29:24
+=============================================================
+
+Teller: 2
+Customer: 69
+Service type: I
+Arrival time: 05/08/23 00:29:07
+Completion time: 05/08/23 00:29:26
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 74
+Service type: W
+Arrival time: 05/08/23 00:29:17
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 74
+Service type: W
+Arrival time: 05/08/23 00:29:17
+Response time: 05/08/23 00:29:26
+=============================================================
+
+Teller: 4
+Customer: 71
+Service type: D
+Arrival time: 05/08/23 00:29:11
+Completion time: 05/08/23 00:29:30
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 75
+Service type: D
+Arrival time: 05/08/23 00:29:19
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 75
+Service type: D
+Arrival time: 05/08/23 00:29:19
+Response time: 05/08/23 00:29:30
+=============================================================
+
+Teller: 1
+Customer: 72
+Service type: I
+Arrival time: 05/08/23 00:29:13
+Completion time: 05/08/23 00:29:35
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 76
+Service type: I
+Arrival time: 05/08/23 00:29:21
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 76
+Service type: I
+Arrival time: 05/08/23 00:29:21
+Response time: 05/08/23 00:29:35
+=============================================================
+
+Teller: 2
+Customer: 74
+Service type: W
+Arrival time: 05/08/23 00:29:17
+Completion time: 05/08/23 00:29:36
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 77
+Service type: I
+Arrival time: 05/08/23 00:29:32
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 77
+Service type: I
+Arrival time: 05/08/23 00:29:32
+Response time: 05/08/23 00:29:36
+=============================================================
+
+Teller: 3
+Customer: 73
+Service type: D
+Arrival time: 05/08/23 00:29:15
+Completion time: 05/08/23 00:29:39
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 78
+Service type: W
+Arrival time: 05/08/23 00:29:34
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 78
+Service type: W
+Arrival time: 05/08/23 00:29:34
+Response time: 05/08/23 00:29:39
+=============================================================
+
+Teller: 4
+Customer: 75
+Service type: D
+Arrival time: 05/08/23 00:29:19
+Completion time: 05/08/23 00:29:45
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 79
+Service type: D
+Arrival time: 05/08/23 00:29:36
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 79
+Service type: D
+Arrival time: 05/08/23 00:29:36
+Response time: 05/08/23 00:29:45
+=============================================================
+
+Teller: 3
+Customer: 78
+Service type: W
+Arrival time: 05/08/23 00:29:34
+Completion time: 05/08/23 00:29:49
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 80
+Service type: W
+Arrival time: 05/08/23 00:29:38
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 80
+Service type: W
+Arrival time: 05/08/23 00:29:38
+Response time: 05/08/23 00:29:49
+=============================================================
+
+Teller: 1
+Customer: 76
+Service type: I
+Arrival time: 05/08/23 00:29:21
+Completion time: 05/08/23 00:29:53
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 81
+Service type: W
+Arrival time: 05/08/23 00:29:40
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 81
+Service type: W
+Arrival time: 05/08/23 00:29:40
+Response time: 05/08/23 00:29:53
+=============================================================
+
+Teller: 2
+Customer: 77
+Service type: I
+Arrival time: 05/08/23 00:29:32
+Completion time: 05/08/23 00:29:54
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 82
+Service type: D
+Arrival time: 05/08/23 00:29:51
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 82
+Service type: D
+Arrival time: 05/08/23 00:29:51
+Response time: 05/08/23 00:29:54
+=============================================================
+
+Teller: 3
+Customer: 80
+Service type: W
+Arrival time: 05/08/23 00:29:38
+Completion time: 05/08/23 00:29:59
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 83
+Service type: I
+Arrival time: 05/08/23 00:29:53
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 83
+Service type: I
+Arrival time: 05/08/23 00:29:53
+Response time: 05/08/23 00:29:59
+=============================================================
+
+Teller: 4
+Customer: 79
+Service type: D
+Arrival time: 05/08/23 00:29:36
+Completion time: 05/08/23 00:30:00
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 84
+Service type: I
+Arrival time: 05/08/23 00:29:55
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 84
+Service type: I
+Arrival time: 05/08/23 00:29:55
+Response time: 05/08/23 00:30:00
+=============================================================
+
+Teller: 1
+Customer: 81
+Service type: W
+Arrival time: 05/08/23 00:29:40
+Completion time: 05/08/23 00:30:03
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 85
+Service type: D
+Arrival time: 05/08/23 00:29:57
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 85
+Service type: D
+Arrival time: 05/08/23 00:29:57
+Response time: 05/08/23 00:30:03
+=============================================================
+
+Teller: 2
+Customer: 82
+Service type: D
+Arrival time: 05/08/23 00:29:51
+Completion time: 05/08/23 00:30:09
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 86
+Service type: W
+Arrival time: 05/08/23 00:29:59
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 86
+Service type: W
+Arrival time: 05/08/23 00:29:59
+Response time: 05/08/23 00:30:09
+=============================================================
+
+Teller: 3
+Customer: 83
+Service type: I
+Arrival time: 05/08/23 00:29:53
+Completion time: 05/08/23 00:30:17
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 87
+Service type: W
+Arrival time: 05/08/23 00:30:05
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 87
+Service type: W
+Arrival time: 05/08/23 00:30:05
+Response time: 05/08/23 00:30:17
+=============================================================
+
+Teller: 1
+Customer: 85
+Service type: D
+Arrival time: 05/08/23 00:29:57
+Completion time: 05/08/23 00:30:18
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 88
+Service type: W
+Arrival time: 05/08/23 00:30:07
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 88
+Service type: W
+Arrival time: 05/08/23 00:30:07
+Response time: 05/08/23 00:30:18
+=============================================================
+
+Teller: 4
+Customer: 84
+Service type: I
+Arrival time: 05/08/23 00:29:55
+Completion time: 05/08/23 00:30:18
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 89
+Service type: I
+Arrival time: 05/08/23 00:30:09
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 89
+Service type: I
+Arrival time: 05/08/23 00:30:09
+Response time: 05/08/23 00:30:18
+=============================================================
+
+Teller: 2
+Customer: 86
+Service type: W
+Arrival time: 05/08/23 00:29:59
+Completion time: 05/08/23 00:30:19
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 90
+Service type: D
+Arrival time: 05/08/23 00:30:11
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 90
+Service type: D
+Arrival time: 05/08/23 00:30:11
+Response time: 05/08/23 00:30:19
+=============================================================
+
+Teller: 3
+Customer: 87
+Service type: W
+Arrival time: 05/08/23 00:30:05
+Completion time: 05/08/23 00:30:27
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 91
+Service type: D
+Arrival time: 05/08/23 00:30:13
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 91
+Service type: D
+Arrival time: 05/08/23 00:30:13
+Response time: 05/08/23 00:30:27
+=============================================================
+
+Teller: 1
+Customer: 88
+Service type: W
+Arrival time: 05/08/23 00:30:07
+Completion time: 05/08/23 00:30:28
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 92
+Service type: I
+Arrival time: 05/08/23 00:30:21
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 92
+Service type: I
+Arrival time: 05/08/23 00:30:21
+Response time: 05/08/23 00:30:28
+=============================================================
+
+Teller: 2
+Customer: 90
+Service type: D
+Arrival time: 05/08/23 00:30:11
+Completion time: 05/08/23 00:30:34
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 93
+Service type: I
+Arrival time: 05/08/23 00:30:23
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 93
+Service type: I
+Arrival time: 05/08/23 00:30:23
+Response time: 05/08/23 00:30:34
+=============================================================
+
+Teller: 4
+Customer: 89
+Service type: I
+Arrival time: 05/08/23 00:30:09
+Completion time: 05/08/23 00:30:36
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 94
+Service type: W
+Arrival time: 05/08/23 00:30:25
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 94
+Service type: W
+Arrival time: 05/08/23 00:30:25
+Response time: 05/08/23 00:30:36
+=============================================================
+
+Teller: 3
+Customer: 91
+Service type: D
+Arrival time: 05/08/23 00:30:13
+Completion time: 05/08/23 00:30:42
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 95
+Service type: D
+Arrival time: 05/08/23 00:30:27
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 95
+Service type: D
+Arrival time: 05/08/23 00:30:27
+Response time: 05/08/23 00:30:42
+=============================================================
+
+Teller: 1
+Customer: 92
+Service type: I
+Arrival time: 05/08/23 00:30:21
+Completion time: 05/08/23 00:30:46
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 96
+Service type: I
+Arrival time: 05/08/23 00:30:29
+-------------------------------------------------------------
+
+Teller: 1
+Customer: 96
+Service type: I
+Arrival time: 05/08/23 00:30:29
+Response time: 05/08/23 00:30:46
+=============================================================
+
+Teller: 4
+Customer: 94
+Service type: W
+Arrival time: 05/08/23 00:30:25
+Completion time: 05/08/23 00:30:46
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 97
+Service type: I
+Arrival time: 05/08/23 00:30:44
+-------------------------------------------------------------
+
+Teller: 4
+Customer: 97
+Service type: I
+Arrival time: 05/08/23 00:30:44
+Response time: 05/08/23 00:30:46
+=============================================================
+
+Teller: 2
+Customer: 93
+Service type: I
+Arrival time: 05/08/23 00:30:23
+Completion time: 05/08/23 00:30:52
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 98
+Service type: W
+Arrival time: 05/08/23 00:30:46
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 98
+Service type: W
+Arrival time: 05/08/23 00:30:46
+Response time: 05/08/23 00:30:52
+=============================================================
+
+Teller: 3
+Customer: 95
+Service type: D
+Arrival time: 05/08/23 00:30:27
+Completion time: 05/08/23 00:30:57
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 99
+Service type: D
+Arrival time: 05/08/23 00:30:48
+-------------------------------------------------------------
+
+Teller: 3
+Customer: 99
+Service type: D
+Arrival time: 05/08/23 00:30:48
+Response time: 05/08/23 00:30:57
+=============================================================
+
+Teller: 2
+Customer: 98
+Service type: W
+Arrival time: 05/08/23 00:30:46
+Completion time: 05/08/23 00:31:02
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Customer: 100
+Service type: W
+Arrival time: 05/08/23 00:30:50
+-------------------------------------------------------------
+
+Teller: 2
+Customer: 100
+Service type: W
+Arrival time: 05/08/23 00:30:50
+Response time: 05/08/23 00:31:02
+=============================================================
+
+Teller: 1
+Customer: 96
+Service type: I
+Arrival time: 05/08/23 00:30:29
+Completion time: 05/08/23 00:31:04
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Teller: 4
+Customer: 97
+Service type: I
+Arrival time: 05/08/23 00:30:44
+Completion time: 05/08/23 00:31:04
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Teller: 2
+Customer: 100
+Service type: W
+Arrival time: 05/08/23 00:30:50
+Completion time: 05/08/23 00:31:12
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Teller: 3
+Customer: 99
+Service type: D
+Arrival time: 05/08/23 00:30:48
+Completion time: 05/08/23 00:31:12
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+Tellers Information
+---------------------------------------
+Teller-1
+#served customers:24
+Start time: 05/08/23 00:25:09
+Termination time: 05/08/23 00:31:04
+
+Teller-2
+#served customers:26
+Start time: 05/08/23 00:25:09
+Termination time: 05/08/23 00:31:12
+
+Teller-3
+#served customers:25
+Start time: 05/08/23 00:25:09
+Termination time: 05/08/23 00:31:12
+
+Teller-4
+#served customers:25
+Start time: 05/08/23 00:25:09
+Termination time: 05/08/23 00:31:04
+
+
+Teller Statistics
+---------------------------------------
+Teller-1 serves 24 customers.
+Teller-2 serves 26 customers.
+Teller-3 serves 25 customers.
+Teller-4 serves 25 customers.
+
+Total number of customers: 100
